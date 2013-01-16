@@ -1,4 +1,4 @@
 Publishing-House
 ================
 
-an publishing house application
+a publishing house application
